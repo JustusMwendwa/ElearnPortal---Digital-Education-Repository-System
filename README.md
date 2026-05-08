@@ -1,12 +1,11 @@
 ElearnPortal - Digital Education Repository System
-https://img.shields.io/badge/PHP-7.4%252B-blue https://img.shields.io/badge/MySQL-8.0%252B-orange https://img.shields.io/badge/Bootstrap-5.3-purple https://img.shields.io/badge/License-MIT-green
 
 📌 Overview
 ElearnPortal is a web-based platform that centralizes academic resources (lecture notes, past papers, research documents, videos) for educational institutions. It features role-based access for Students (search/download), Lecturers (upload/manage resources), and Administrators (full control). Built with PHP, MySQL, and Bootstrap.
 
 🚀 Quick Start
 bash
-git clone https://github.com/yourusername/ElearnPortal.git
+git clone https://github.com/JustusMwendwa/ElearnPortal.git
 cd ElearnPortal
 # Import database/ders_db.sql to MySQL
 # Update config/config.php with your database credentials
